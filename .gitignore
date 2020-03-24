@@ -1,3 +1,5 @@
-./image/*
-./vedio/*
-./cvhk/*
+image/*
+vedio/*
+cvhk/*
+experiment/res.py
+
